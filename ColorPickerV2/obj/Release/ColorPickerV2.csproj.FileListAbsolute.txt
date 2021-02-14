@@ -1,0 +1,14 @@
+C:\Users\user\Documents\projekty\git\C#\ColorPickerV2\ColorPickerV2\obj\Release\ColorPickerV2.csprojAssemblyReference.cache
+C:\Users\user\Documents\projekty\git\C#\ColorPickerV2\ColorPickerV2\obj\Release\ColorPickerV2.Form1.resources
+C:\Users\user\Documents\projekty\git\C#\ColorPickerV2\ColorPickerV2\obj\Release\ColorPickerV2.csproj.GenerateResource.cache
+C:\Users\user\Documents\projekty\git\C#\ColorPickerV2\ColorPickerV2\obj\Release\ColorPickerV2.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\projekty\git\C#\ColorPickerV2\ColorPickerV2\bin\Release\ColorPicker.exe.config
+C:\Users\user\Documents\projekty\git\C#\ColorPickerV2\ColorPickerV2\bin\Release\ColorPicker.exe.manifest
+C:\Users\user\Documents\projekty\git\C#\ColorPickerV2\ColorPickerV2\bin\Release\ColorPicker.application
+C:\Users\user\Documents\projekty\git\C#\ColorPickerV2\ColorPickerV2\bin\Release\ColorPicker.exe
+C:\Users\user\Documents\projekty\git\C#\ColorPickerV2\ColorPickerV2\bin\Release\ColorPicker.pdb
+C:\Users\user\Documents\projekty\git\C#\ColorPickerV2\ColorPickerV2\obj\Release\ColorPicker.Properties.Resources.resources
+C:\Users\user\Documents\projekty\git\C#\ColorPickerV2\ColorPickerV2\obj\Release\ColorPicker.exe.manifest
+C:\Users\user\Documents\projekty\git\C#\ColorPickerV2\ColorPickerV2\obj\Release\ColorPicker.application
+C:\Users\user\Documents\projekty\git\C#\ColorPickerV2\ColorPickerV2\obj\Release\ColorPicker.exe
+C:\Users\user\Documents\projekty\git\C#\ColorPickerV2\ColorPickerV2\obj\Release\ColorPicker.pdb
